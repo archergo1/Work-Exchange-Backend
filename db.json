@@ -1,0 +1,659 @@
+{
+  "users": [
+    {
+      "user_mug": "/src/assets/images/userMug/gege.jpg",
+      "email": "gegechen@gmail.com",
+      "password": "$2a$10$yiy/JxAc6xfFp5cnZPf2B.NTpJahHFjdy/zlfw2eYYlKV1Hshnpq.",
+      "name": "給給",
+      "id": 1
+    },
+    {
+      "email": "econarcher2010@gmail.com",
+      "password": "$2a$10$GRXKv24TpYRTKpEBMnbxceYYJpznHeplWLYd7zABqlOtwoP.Pj7zG",
+      "user_mug": "/src/assets/images/userMug/archer.jpg",
+      "name": "Archer",
+      "id": 2
+    },
+    {
+      "user_mug": "/src/assets/images/userMug/welly.jpg",
+      "email": "welly111@hotmail.com",
+      "password": "$2a$10$oPM5WLicl0RbliTEfW88nOuZHqHik5VukyrX42ShP0Cg41Zc6hACi",
+      "name": "Welly",
+      "id": 3
+    },
+    {
+      "email": "ROU555@hotmail.com",
+      "password": "$2a$10$QX.cpPeMjYHc5n0vtV0m5etBJ0JvtE4ciQPgIh6.V6Chu/TNbTT.C",
+      "user_mug": "/src/assets/images/userMug/rou.jpg",
+      "name": "肉肉",
+      "id": 4
+    },
+    {
+      "user_mug": "/src/assets/images/userMug/mei.jpg",
+      "email": "mei123@gmail.com",
+      "password": "$2a$10$.3LJd/hkhOTkTEki4Bl2W.ah8wkEeZ/rdmANfbjr/LGLZYWRVaELe",
+      "name": "ヒツジ",
+      "id": 5
+    },
+    {
+      "user_mug": "/src/assets/images/userMug/green.jpg",
+      "email": "chingching65@yahoo.com.tw",
+      "password": "$2a$10$DYG3.snnrUMltxveczjMEe8RPbhgWbn2mNKHCrIAPF.Uiub6CVwai",
+      "name": "青",
+      "id": 6
+    },
+    {
+      "user_mug": "/src/assets/images/userMug/wayne.jpg",
+      "email": "wayne13@yahoo.com.tw",
+      "password": "$2a$10$us62Th3l9ecrj0L1xEr0.OtkfPGPpg5lhKBoNxlbK5SPBZQWHV0/K",
+      "name": "晏維",
+      "id": 7
+    },
+    {
+      "user_mug": "/src/assets/images/userMug/defaultMug.png",
+      "email": "abc123@gmail.com",
+      "password": "$2a$10$PNYoXZ0vuceZMdCrh3K4c.rmfdb/fHPyD1.4Yu7IxOAb0J65V3d0a",
+      "name": "ABC",
+      "id": 8
+    },
+    {
+      "email": "user123@gmail.com",
+      "password": "$2a$10$/OEY.q.qqA.hvD/8IY7WzOlQRm/gbZiNLbE8av7glOQ5vErwtKWhu",
+      "user_mug": "/src/assets/images/userMug/defaultMug.jpg",
+      "name": "user123",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "author": "青",
+      "store_name": "北山古洋樓",
+      "post_date": "2019-07-12T14:28:02.953Z",
+      "work_year": "2019",
+      "first_half": "上半年",
+      "work_hour": 3,
+      "work_span": "3週－1個月",
+      "type_pro": "專業換宿",
+      "score": 4,
+      "body": "來金門這麼久後，自己又問了一次自己這個大家都感到非常疑惑的問題。到底，為什麼要來金門呢？其實是因為看到身旁的朋友都漸漸獨立，害怕自己追趕不上他們，只有自己還停留在原地，所以想藉著打工換宿來證明。那為什麼是金門呢？為什麼是北山呢？其實，只是，剛好。北山徵小幫手的文非常吸引我，看著「打掃可以等睡起來在做」這句話之後，我就直接報名了，非常的果決、快速，確定好時間就直接買機票。",
+      "pros": [
+        "環境整潔",
+        "人員友善",
+        "有零用金",
+        "體驗課程",
+        "住宿優良",
+        "提供機車"
+      ],
+      "cons": [],
+      "userId": 6,
+      "storeId": 1
+    },
+    {
+      "id": 2,
+      "author": "Welly",
+      "store_name": "台東龍捲風",
+      "post_date": "2019-10-12T14:28:02.953Z",
+      "work_year": "2019",
+      "first_half": "上半年",
+      "work_hour": 3,
+      "work_span": "1週－2週",
+      "type_pro": "ㄧ般換宿",
+      "score": 5,
+      "body": "當初找機會時，偶然得知台東龍捲風，看到有隻馬當吉祥物，小幫手的心得文又寫得很吸引我，就馬上決定丟履歷，也幸運的被老大通知錄取了。\n\n抱著既期待又怕受傷害的心情，還有簡便的行李，騎著機車從高雄到台東，展開這趟未知的旅程",
+      "pros": [
+        "人員友善"
+      ],
+      "cons": [
+        "交通不便"
+      ],
+      "userId": 2,
+      "storeId": 3
+    },
+    {
+      "id": 3,
+      "author": "Archer",
+      "store_name": "晃晃二手書",
+      "post_date": "2020-07-12T14:28:02.953Z",
+      "work_year": "2019",
+      "first_half": "下半年",
+      "work_hour": 5,
+      "work_span": "1週－2週",
+      "type_pro": "ㄧ般換宿",
+      "score": 1,
+      "body": "轉眼間,在晃晃的日子已是最後一週了,期間認識了許多朋友,也一起寫下很多回憶,只是陸續會從老婆的訊息中得知故鄉家裡的狀況,老媽的身體是越來越差了,不只沒力,連下樓梯都有困難,頓時在心中那顆大石頭是幾乎要壓了下來......",
+      "pros": [
+        "環境整潔",
+        "人員友善",
+        "住宿優良",
+        "提供機車"
+      ],
+      "cons": [
+        "交通不便"
+      ],
+      "userId": 2,
+      "storeId": 2
+    },
+    {
+      "id": 4,
+      "author": "Welly",
+      "store_name": "海街日記",
+      "post_date": "2018-07-12T14:28:02.953Z",
+      "work_year": "2019",
+      "first_half": "上半年",
+      "work_hour": 3,
+      "work_span": "大於1個月",
+      "type_pro": "ㄧ般換宿",
+      "score": 3,
+      "body": "雖然我只有在海街待一個星期，沒有什麼機會跟大家深度聊天，但還是有一些自己的觀察心得，其中最印象深刻的當然是老闆蔡蔡。\n從我跟他幾次談話中，我覺得他是個有很多創意點子，而且行動力很高的人。",
+      "pros": [
+        "體驗課程",
+        "住宿優良",
+        "提供機車"
+      ],
+      "cons": [
+        "工時長",
+        "性騷擾",
+        "圖文不符"
+      ],
+      "userId": 3,
+      "storeId": 4
+    },
+    {
+      "id": 5,
+      "author": "Archer",
+      "store_name": "北山古洋樓",
+      "post_date": "2018-07-12T14:28:02.953Z",
+      "work_year": "2019",
+      "first_half": "上半年",
+      "work_hour": 3,
+      "work_span": "大於1個月",
+      "type_pro": "專業換宿",
+      "score": 3,
+      "body": "來到北山打工換宿的這段時間真的很特別，在這裡可以遇到很多不一樣的人，有工作幾年想休息的、剛畢業gap year的、大學生放暑假來的、在金門工作或讀書喜歡北山而來串門子的。\n而且因為每個人的換宿日期和時間長短不一樣，有些人你可能見了一次面，隔天他就要離開。遇到很聊得來的小幫手，真的要分別時，還真的滿不捨的。",
+      "pros": [
+        "體驗課程",
+        "住宿優良",
+        "人員友善"
+      ],
+      "cons": [],
+      "userId": 2,
+      "storeId": 1
+    },
+    {
+      "userId": 1,
+      "storeId": 9,
+      "author": "給給",
+      "store_name": "澎湖夏灩民宿",
+      "store_phone": "0939-725883",
+      "store_address": "金門縣金寧鄉南山路5-6號",
+      "work_span": "3週－1個月",
+      "work_year": "2019",
+      "first_half": "下半年",
+      "work_hour": 5,
+      "type_pro": "一般換宿",
+      "pros": [
+        "交通便利"
+      ],
+      "cons": [],
+      "score": 2,
+      "body": "說實話，夏灩這家民宿真是有夠(嗶嗶嗶~)的難找!!!而且位在一個雞不拉屎、鳥不生蛋、烏龜不上岸的鳥地方，讓我迷路快半個小時，還不止一次受到海巡人員騎鐵馬來關切，畢竟晚上十點鐘還在碼頭邊徘徊的人還真不多，可能怕我一急從碼頭跳下去吧? (囧)不過這裡卻是我下次回來澎湖還想再住的地方。",
+      "post_date": "2023-04-28T16:52:32.014Z",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "storeId": 2,
+      "author": "肉肉",
+      "store_name": "晃晃二手書",
+      "store_phone": "0914-073170",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "work_span": "3週－1個月",
+      "work_year": "2019",
+      "first_half": "上半年",
+      "work_hour": 4,
+      "type_pro": "專業換宿",
+      "pros": [
+        "交通便利",
+        "人員友善",
+        "住宿佳"
+      ],
+      "cons": [],
+      "score": 5,
+      "body": "在這裡，小幫手每六天有一天休假整天，一天從早上11點開始1~2小時的打掃工作就可以休息了，剩下四天除了早上打掃外還需要在下午或晚上值4小時的班。\n\n工作內容很多元，從洗換晾床單、吸地拖地掃廁所清貓砂倒垃圾、接待房客介紹環境、吧檯結帳記帳送餐、進書清潔包裝上架等等都會接觸到，只不過在對一切都還很陌生的情況下常常因為沒辦法把所有事情迅速記得而感受到很大的壓力，其他的小幫手好像都能很快就記起來@@。",
+      "post_date": "2023-04-29T03:49:48.452Z",
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "storeId": 1,
+      "author": "晏維",
+      "store_name": "北山古洋樓",
+      "store_phone": "0905-989286",
+      "store_address": "金門縣金寧鄉北山村55-3號",
+      "work_span": "3週－1個月",
+      "work_year": "2022",
+      "first_half": "上半年",
+      "work_hour": 2,
+      "type_pro": "專業換宿",
+      "pros": [
+        "店家環境佳",
+        "人員友善",
+        "制度完善",
+        "環境整潔"
+      ],
+      "cons": [],
+      "score": 5,
+      "body": "這裡的步調真的很慢、很愜意，而且我們民宿的客廳超級黏人、懶骨頭超舒服的啊！\n除了小幫手常常相約出遊，其餘時間留在家裡耍個廢、剪個片也是一大享受😍\n這裡的地理位置離市區也算偏遠，附近沒什麼超商，因此每個人大概都囤了泡麵、早餐常常自己做、晚餐也常常自己下廚，連本身金門的島民都來這裡串門子、互相聊天。",
+      "post_date": "2023-05-02T14:36:16.484Z",
+      "id": 8
+    },
+    {
+      "userId": 7,
+      "storeId": 6,
+      "author": "晏維",
+      "store_name": "沙灘城堡",
+      "store_phone": "06-9950855",
+      "store_address": "澎湖縣馬公市山水里珠江3-10號",
+      "work_span": "大於1個月",
+      "work_year": "2018",
+      "first_half": "上半年",
+      "work_hour": 4,
+      "type_pro": "一般換宿",
+      "pros": [
+        "店家環境佳",
+        "人員友善",
+        "免費供餐"
+      ],
+      "cons": [
+        "交通不便"
+      ],
+      "score": 5,
+      "body": "支腳在晴空萬里的平靜湖面佇立，等待著狂風暴雨的洶湧浪花襲擊，只為雨過天晴的來臨，海上反射的波光粼粼，回首向來蕭瑟處 歸去 也無風雨也無晴。這應該就是澎湖的大海教會我的事。仲夏的午後，陽光恣意妄為的灑在我們身上，慢慢收藏空氣中的粉色泡泡，用力捕捉笑聲塗上耳朵，任憑汗水一滴一滴滴進心裡，就像所有有你們的回憶。",
+      "post_date": "2023-05-03T12:31:09.754Z",
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "storeId": 10,
+      "author": "ヒツジ",
+      "store_name": "松之墅",
+      "store_phone": "0920997168",
+      "store_address": "269宜蘭縣冬山鄉安農五路19號",
+      "work_span": "1週－2週",
+      "work_year": "2019",
+      "first_half": "下半年",
+      "work_hour": 4,
+      "type_pro": "一般換宿",
+      "pros": [
+        "店家環境佳",
+        "人員友善",
+        "制度完善",
+        "免費供餐",
+        "環境整潔",
+        "住宿佳"
+      ],
+      "cons": [
+        "交通不便"
+      ],
+      "score": 5,
+      "body": "松之墅溜滑梯親子民宿真的很值得推薦!\n\n有大型室內遊樂區，應有盡有的玩具，遊樂設施，\n\n房間也有專屬的溜滑梯、盪鞦韆、也有各種玩具!\n\n這裡真的建議可以早點check in來玩，格天早上也不用排景點，可以玩一整天沒問題!\n\n餐點的部分老闆也非常用心!\n\n尤其早餐，兩大盤真的超豐富，除此之外還能自己去烤吐司泡咖啡!\n\n擺盤更是用心~好看又好吃!\n\n最後還送個小禮物，讓人覺得好驚喜!\n\n民宿每個細節都做得很不錯~",
+      "post_date": "2023-05-04T16:13:22.583Z",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "storeId": 1,
+      "author": "給給",
+      "store_name": "北山古洋樓",
+      "store_phone": "0905-989286",
+      "store_address": "金門縣金寧鄉北山村55-3號",
+      "work_span": "大於1個月",
+      "work_year": "2021",
+      "first_half": "上半年",
+      "work_hour": 2,
+      "type_pro": "一般換宿",
+      "pros": [
+        "店家環境佳",
+        "交通便利",
+        "人員友善",
+        "制度完善",
+        "有體驗活動",
+        "環境整潔",
+        "住宿佳"
+      ],
+      "cons": [
+        "交通不便"
+      ],
+      "score": 5,
+      "body": "換個地方生活 其實也不過短短兩個禮拜 「如果迷惘了，去旅行吧！」 一開始是要認識自己了解自己想要什麼 打工換宿的地方是背包客棧 也是迪卡文章熱門選擇-北山古洋樓 感覺很像重新回到大一新生入住宿舍的場景 新的地方 來自各地的室友 新的環境 新的相處模式 重新溫習的打掃工作細節 感情沒有一見就投緣沒關係 努力在相處中摩擦出革命情感",
+      "post_date": "2023-05-11T09:12:52.381Z",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "storeId": 1,
+      "author": "Welly",
+      "store_name": "北山古洋樓",
+      "store_phone": "0905-989286",
+      "store_address": "金門縣金寧鄉北山村55-3號",
+      "work_span": "1週－2週",
+      "work_year": "2020",
+      "first_half": "下半年",
+      "work_hour": 1,
+      "type_pro": "專業換宿",
+      "pros": [
+        "店家環境佳",
+        "交通便利",
+        "環境整潔",
+        "住宿佳"
+      ],
+      "cons": [
+        "制度不完善"
+      ],
+      "score": 3,
+      "body": "看完夏日協奏曲後一直對金門有很大的憧憬，不管是戰地情懷還是當地特殊的建築都深深的吸引到我，終於在21歲這年踏上了嚮往已久的土地，也因為平常在學校壓力太大了，決定好好待在自己喜歡地方重新體會人生的意義。 剛來金門時，天公不作美一連下了四天的雨，一直關在家裡，關到都懷疑自己到底來這裡幹嘛的，不過好險第五天就放晴了，我們也開始跟著其他小幫手一起發掘金門的美。",
+      "post_date": "2023-05-11T09:16:16.734Z",
+      "id": 12
+    },
+    {
+      "userId": 7,
+      "storeId": 3,
+      "author": "晏維",
+      "store_name": "台東龍捲風",
+      "store_phone": "0930-196415",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "work_span": "大於1個月",
+      "work_year": "2020",
+      "first_half": "下半年",
+      "work_hour": 1,
+      "type_pro": "一般換宿",
+      "pros": [
+        "人員友善",
+        "有體驗活動"
+      ],
+      "cons": [
+        "店家環境差",
+        "交通不便",
+        "制度不完善"
+      ],
+      "score": 4,
+      "body": "第四天晚上大家半夜說要一起到海邊睡覺等日出，因為 #我的固執 我只想好好在床上休息，所以選擇沒去，也因為沒去才能夠跟老大兩人坐在火爐前聊天，在平常的生活不管是家人還是朋友，都 #沒辦法聊到自己內心最深處的感受。\n跟老大一聊他就看出我的很多問題，不管是社交障礙、固執，甚至自己活了二十幾年都沒發現自己有一點點亞斯伯格症。",
+      "post_date": "2023-05-11T10:02:29.530Z",
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "storeId": 3,
+      "author": "青",
+      "store_name": "台東龍捲風",
+      "store_phone": "0930-196415",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "work_span": "3週－1個月",
+      "work_year": "2020",
+      "first_half": "上半年",
+      "work_hour": 1,
+      "type_pro": "一般換宿",
+      "pros": [
+        "店家環境佳",
+        "有體驗活動",
+        "住宿佳"
+      ],
+      "cons": [
+        "店家環境差",
+        "交通不便",
+        "制度不完善"
+      ],
+      "score": 5,
+      "body": "他還說：「要活在當下，不要老是被過去和未來束縛。」我那時候才發現，我把所有問題都怪在家庭上面，卻不相信自己有積極改變的能力。\n除此之外，老大也提醒我，要尊重他人，不要自以為對別人好，做出一些越界的事。我知道我常常用討好別人的方式滿足自己，讓自己安心，但是這也造成我很多人際關係上的苦惱和問題。",
+      "post_date": "2023-05-11T11:09:51.236Z",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "storeId": 3,
+      "author": "給給",
+      "store_name": "台東龍捲風",
+      "store_phone": "0930-196415",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "work_span": "大於1個月",
+      "work_year": "2019",
+      "first_half": "下半年",
+      "work_hour": 3,
+      "type_pro": "一般換宿",
+      "pros": [
+        "有體驗活動"
+      ],
+      "cons": [
+        "性騷擾"
+      ],
+      "score": 4,
+      "body": "有時老大就會帶著我們到處去玩，其實我很喜歡這種 #隨性悠閒的氛圍，讓我整個人感覺很自在又很快樂，就算沒有做甚麼事，也覺得輕鬆快樂。\n而且在龍捲風，可以體驗到別的地方體驗不到的，像騎馬，玩一些特別的水上活動，像雷鬼頭，野溪溫泉烤肉，原住民起營火吉他彈唱，原住民式的投幣式卡啦ok半夜出去喝酒交友，哈哈哈，一切都是那麼隨性快樂。",
+      "post_date": "2023-05-14T08:34:23.709Z",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "storeId": 6,
+      "author": "Archer",
+      "store_name": "沙灘城堡",
+      "store_phone": "06-9950855",
+      "store_address": "澎湖縣馬公市山水里珠江3-10號",
+      "work_span": "3週－1個月",
+      "work_year": "2017",
+      "first_half": "上半年",
+      "work_hour": 3,
+      "type_pro": "一般換宿",
+      "pros": [
+        "人員友善",
+        "住宿佳"
+      ],
+      "cons": [
+        "制度不完善"
+      ],
+      "score": 4,
+      "body": "了解自己也很重要，像我也是在打工換宿過程中更認識自己，認清自己的特質、長處及短處，並且更喜歡性格越來越明確的自己。\n\n每個人在意的面向不同，就選擇自己能接受，能做得開心的地方吧！\n\n從今年(2020年)四月起以蘭嶼(餐廳)為首站開始打工換宿人生，歷經高雄(青旅)、台南(青旅)、嘉義(青旅)，平均每個地方停留兩週。",
+      "post_date": "2023-05-14T08:40:08.483Z",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "storeId": 11,
+      "author": "ヒツジ",
+      "store_name": "晴光部落民宿",
+      "store_phone": "06-9950838",
+      "store_address": "澎湖縣馬公市鎖港里25鄰鎖管港1886號",
+      "work_span": "3週－1個月",
+      "work_year": "2017",
+      "first_half": "上半年",
+      "work_hour": 6,
+      "type_pro": "專業換宿",
+      "pros": [
+        "交通便利",
+        "有零用金/補助餐費",
+        "環境整潔"
+      ],
+      "cons": [
+        "店家環境差"
+      ],
+      "score": 5,
+      "body": "每次讓心去流浪，就會看到自己的渺小，謝謝在澎湖相遇的每個人，讓我更明白自己的匱乏與充足。謝謝管家大熊，搭班的日子，他就像媽祖一樣，總有安定人心的力量，遇到客人提出的各種要求，或者大大小小荒唐事情，我們總是戲劇般的演出轉達，他也臨危不亂，甚至小幫手們各種離奇事蹟，給他添麻煩也沒見過他不耐煩，例如小幫手A記錯了上班時間、小幫手B不會游泳玩魔毯差點漂走、小幫手C把別人護目鏡帶回台灣、小幫手D發現自己伴手禮抗不動已經是要上飛機前、小幫手E跟朋友在沙灘上悠哉野餐，結果突如其來的海浪，把手機錢包鞋子通通捲走，第一時間赤腳狂奔回去求救，大熊戴上裝備，下水幫忙尋找，而我絕對不會說以上的小幫ABCDE…都是我本人….",
+      "post_date": "2023-05-14T09:01:57.046Z",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "storeId": 2,
+      "author": "Welly",
+      "store_name": "晃晃二手書",
+      "store_phone": "0914-073170",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "work_span": "3週－1個月",
+      "work_year": "2018",
+      "first_half": "上半年",
+      "work_hour": 4,
+      "type_pro": "一般換宿",
+      "pros": [
+        "店家環境佳",
+        "交通便利",
+        "人員友善"
+      ],
+      "cons": [
+        "制度不完善"
+      ],
+      "score": 3,
+      "body": "這天晚上又是BOSS開車帶我們出去玩的日子\n這次去山上看夜景，上山的路有點危險要小心\n地上有很多兔子很Q哦\n這裡除了櫃台以外座位區是沒有燈的\n所以都要拿一個照片中的那個燈到桌上才看的到食物\n那個燈很可愛吧~~很像哈利波特裡面會出現的哈哈哈\n\n聽說夜景會看到很多的白燈其實是來照釋迦的不是有人居住嘿嘿",
+      "post_date": "2023-05-14T09:41:42.165Z",
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "author": "Jane",
+      "comment_date": "2019-08-31",
+      "body": "我要變有錢！",
+      "postId": 1,
+      "userId": 3
+    },
+    {
+      "id": 2,
+      "author": "Tom",
+      "comment_date": "2019-08-31",
+      "body": "年薪百萬",
+      "postId": 2,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "author": "Tom",
+      "comment_date": "2019-12-31",
+      "body": "送啦！",
+      "postId": 2,
+      "userId": 1
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "store_name": "北山古洋樓",
+      "store_phone": "0905-989286",
+      "store_address": "金門縣金寧鄉北山村55-3號",
+      "average_score": 5,
+      "average_hour": 2,
+      "img_url": "/src/assets/images/storeImage/beishan.png"
+    },
+    {
+      "id": 2,
+      "store_name": "晃晃二手書",
+      "store_phone": "0914-073170",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "average_score": 2,
+      "average_hour": 3,
+      "img_url": "/src/assets/images/storeImage/catbooks.jpg"
+    },
+    {
+      "id": 3,
+      "store_name": "台東龍捲風",
+      "store_phone": " 0930-196415",
+      "store_address": "台東縣台東市漢陽南路139-1號",
+      "average_score": 2,
+      "average_hour": 1,
+      "img_url": "/src/assets/images/storeImage/tornado.jpg"
+    },
+    {
+      "id": 4,
+      "store_name": "海街日記",
+      "store_phone": "0980-817722",
+      "store_address": "台東縣綠島鄉公館50號",
+      "average_score": 4,
+      "average_hour": 1,
+      "img_url": "/src/assets/images/storeImage/oceandiary.jpg"
+    },
+    {
+      "store_name": "人魚和貓",
+      "store_phone": " 08-9732943",
+      "store_address": "台東縣蘭嶼鄉東清村23-3號",
+      "average_score": "2",
+      "average_hour": "3",
+      "img_url": "/src/assets/images/storeImage/mermaid.jpg",
+      "id": 5
+    },
+    {
+      "store_name": "沙灘城堡",
+      "store_phone": "06-9950855",
+      "store_address": "澎湖縣馬公市山水里珠江3-10號",
+      "average_score": "3",
+      "average_hour": "3",
+      "img_url": "/src/assets/images/storeImage/beachcastle.jpg",
+      "id": 6
+    },
+    {
+      "store_name": "大魚的家",
+      "store_phone": " 06-9951505",
+      "store_address": "澎湖縣馬公市五德里雞母塢230號",
+      "average_score": "3",
+      "average_hour": "8",
+      "img_url": "/src/assets/images/storeImage/bigfish.jpg",
+      "id": 7
+    },
+    {
+      "store_name": "湖畔江南",
+      "store_phone": "0939-725883",
+      "store_address": "金門縣金寧鄉南山路5-6號",
+      "average_score": "2",
+      "average_hour": "6",
+      "id": 8,
+      "img_url": "/src/assets/images/storeImage/lake.jpg"
+    },
+    {
+      "store_name": "澎湖夏灩民宿",
+      "store_phone": "0931-151565",
+      "store_address": "澎湖縣湖西鄉沙港村13號之一",
+      "average_score": "3",
+      "average_hour": "4",
+      "id": 9,
+      "img_url": "/src/assets/images/storeImage/summer.jpg"
+    },
+    {
+      "store_name": "松之墅",
+      "store_phone": "0920997168",
+      "store_address": "269宜蘭縣冬山鄉安農五路19號",
+      "average_score": "5",
+      "average_hour": "4",
+      "id": 10,
+      "img_url": "/src/assets/images/storeImage/song.jpg"
+    },
+    {
+      "store_name": "晴光部落民宿",
+      "store_phone": "06-9950838",
+      "store_address": "澎湖縣馬公市鎖港里25鄰鎖管港1886號",
+      "average_score": "5",
+      "average_hour": "2",
+      "id": 11,
+      "img_url": "/src/assets/images/storeImage/sunshine.jpg"
+    }
+  ],
+  "bookmarks": [
+    {
+      "userId": 1,
+      "storeId": 2,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "storeId": 1,
+      "id": 2
+    },
+    {
+      "userId": 6,
+      "storeId": 10,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "storeId": 3,
+      "id": 4
+    }
+  ]
+}
