@@ -1,65 +1,65 @@
 {
   "users": [
     {
-      "user_mug": "/src/assets/images/userMug/gege.jpg",
+      "user_mug": "/static/images/userMug/gege.jpg",
       "email": "gegechen@gmail.com",
       "password": "$2a$10$yiy/JxAc6xfFp5cnZPf2B.NTpJahHFjdy/zlfw2eYYlKV1Hshnpq.",
       "name": "給給",
       "id": 1
     },
     {
+      "user_mug": "/static/images/userMug/archer.jpg",
       "email": "econarcher2010@gmail.com",
       "password": "$2a$10$GRXKv24TpYRTKpEBMnbxceYYJpznHeplWLYd7zABqlOtwoP.Pj7zG",
-      "user_mug": "/src/assets/images/userMug/archer.jpg",
       "name": "Archer",
       "id": 2
     },
     {
-      "user_mug": "/src/assets/images/userMug/welly.jpg",
+      "user_mug": "/static/images/userMug/welly.jpg",
       "email": "welly111@hotmail.com",
       "password": "$2a$10$oPM5WLicl0RbliTEfW88nOuZHqHik5VukyrX42ShP0Cg41Zc6hACi",
       "name": "Welly",
       "id": 3
     },
     {
+      "user_mug": "/static/images/userMug/rou.jpg",
       "email": "ROU555@hotmail.com",
       "password": "$2a$10$QX.cpPeMjYHc5n0vtV0m5etBJ0JvtE4ciQPgIh6.V6Chu/TNbTT.C",
-      "user_mug": "/src/assets/images/userMug/rou.jpg",
       "name": "肉肉",
       "id": 4
     },
     {
-      "user_mug": "/src/assets/images/userMug/mei.jpg",
+      "user_mug": "/static/images/userMug/mei.jpg",
       "email": "mei123@gmail.com",
       "password": "$2a$10$.3LJd/hkhOTkTEki4Bl2W.ah8wkEeZ/rdmANfbjr/LGLZYWRVaELe",
       "name": "ヒツジ",
       "id": 5
     },
     {
-      "user_mug": "/src/assets/images/userMug/green.jpg",
+      "user_mug": "/static/images/userMug/green.jpg",
       "email": "chingching65@yahoo.com.tw",
       "password": "$2a$10$DYG3.snnrUMltxveczjMEe8RPbhgWbn2mNKHCrIAPF.Uiub6CVwai",
       "name": "青",
       "id": 6
     },
     {
-      "user_mug": "/src/assets/images/userMug/wayne.jpg",
+      "user_mug": "/static/images/userMug/wayne.jpg",
       "email": "wayne13@yahoo.com.tw",
       "password": "$2a$10$us62Th3l9ecrj0L1xEr0.OtkfPGPpg5lhKBoNxlbK5SPBZQWHV0/K",
       "name": "晏維",
       "id": 7
     },
     {
-      "user_mug": "/src/assets/images/userMug/defaultMug.png",
+      "user_mug": "/static/images/userMug/defaultMug.png",
       "email": "abc123@gmail.com",
       "password": "$2a$10$PNYoXZ0vuceZMdCrh3K4c.rmfdb/fHPyD1.4Yu7IxOAb0J65V3d0a",
       "name": "ABC",
       "id": 8
     },
     {
+      "user_mug": "/static/images/userMug/defaultMug.png",
       "email": "user123@gmail.com",
       "password": "$2a$10$/OEY.q.qqA.hvD/8IY7WzOlQRm/gbZiNLbE8av7glOQ5vErwtKWhu",
-      "user_mug": "/src/assets/images/userMug/defaultMug.jpg",
       "name": "user123",
       "id": 9
     }
@@ -541,7 +541,7 @@
       "store_address": "金門縣金寧鄉北山村55-3號",
       "average_score": 5,
       "average_hour": 2,
-      "img_url": "/src/assets/images/storeImage/beishan.png"
+      "img_url": "/static/images/storeImage/beishan.png"
     },
     {
       "id": 2,
@@ -550,7 +550,7 @@
       "store_address": "台東縣台東市漢陽南路139-1號",
       "average_score": 2,
       "average_hour": 3,
-      "img_url": "/src/assets/images/storeImage/catbooks.jpg"
+      "img_url": "/static/images/storeImage/catbooks.jpg"
     },
     {
       "id": 3,
@@ -559,7 +559,7 @@
       "store_address": "台東縣台東市漢陽南路139-1號",
       "average_score": 2,
       "average_hour": 1,
-      "img_url": "/src/assets/images/storeImage/tornado.jpg"
+      "img_url": "/static/images/storeImage/tornado.jpg"
     },
     {
       "id": 4,
@@ -568,7 +568,7 @@
       "store_address": "台東縣綠島鄉公館50號",
       "average_score": 4,
       "average_hour": 1,
-      "img_url": "/src/assets/images/storeImage/oceandiary.jpg"
+      "img_url": "/static/images/storeImage/oceandiary.jpg"
     },
     {
       "store_name": "人魚和貓",
@@ -576,7 +576,7 @@
       "store_address": "台東縣蘭嶼鄉東清村23-3號",
       "average_score": "2",
       "average_hour": "3",
-      "img_url": "/src/assets/images/storeImage/mermaid.jpg",
+      "img_url": "/static/images/storeImage/mermaid.jpg",
       "id": 5
     },
     {
@@ -585,7 +585,7 @@
       "store_address": "澎湖縣馬公市山水里珠江3-10號",
       "average_score": "3",
       "average_hour": "3",
-      "img_url": "/src/assets/images/storeImage/beachcastle.jpg",
+      "img_url": "/static/images/storeImage/beachcastle.jpg",
       "id": 6
     },
     {
@@ -594,7 +594,7 @@
       "store_address": "澎湖縣馬公市五德里雞母塢230號",
       "average_score": "3",
       "average_hour": "8",
-      "img_url": "/src/assets/images/storeImage/bigfish.jpg",
+      "img_url": "/static/images/storeImage/bigfish.jpg",
       "id": 7
     },
     {
@@ -603,8 +603,8 @@
       "store_address": "金門縣金寧鄉南山路5-6號",
       "average_score": "2",
       "average_hour": "6",
-      "id": 8,
-      "img_url": "/src/assets/images/storeImage/lake.jpg"
+      "img_url": "/static/images/storeImage/lake.jpg",
+      "id": 8
     },
     {
       "store_name": "澎湖夏灩民宿",
@@ -612,8 +612,8 @@
       "store_address": "澎湖縣湖西鄉沙港村13號之一",
       "average_score": "3",
       "average_hour": "4",
-      "id": 9,
-      "img_url": "/src/assets/images/storeImage/summer.jpg"
+      "img_url": "/static/images/storeImage/summer.jpg",
+      "id": 9
     },
     {
       "store_name": "松之墅",
@@ -621,8 +621,8 @@
       "store_address": "269宜蘭縣冬山鄉安農五路19號",
       "average_score": "5",
       "average_hour": "4",
-      "id": 10,
-      "img_url": "/src/assets/images/storeImage/song.jpg"
+      "img_url": "/static/images/storeImage/song.jpg",
+      "id": 10
     },
     {
       "store_name": "晴光部落民宿",
@@ -630,8 +630,8 @@
       "store_address": "澎湖縣馬公市鎖港里25鄰鎖管港1886號",
       "average_score": "5",
       "average_hour": "2",
-      "id": 11,
-      "img_url": "/src/assets/images/storeImage/sunshine.jpg"
+      "img_url": "/static/images/storeImage/sunshine.jpg",
+      "id": 11
     }
   ],
   "bookmarks": [
