@@ -539,7 +539,7 @@
       "store_name": "北山古洋樓",
       "store_phone": "0905-989286",
       "store_address": "金門縣金寧鄉北山村55-3號",
-      "average_score": 5,
+      "average_score": 4.8,
       "average_hour": 2,
       "img_url": "/static/images/storeImage/beishan.png"
     },
@@ -548,7 +548,7 @@
       "store_name": "晃晃二手書",
       "store_phone": "0914-073170",
       "store_address": "台東縣台東市漢陽南路139-1號",
-      "average_score": 2,
+      "average_score": 4.5,
       "average_hour": 3,
       "img_url": "/static/images/storeImage/catbooks.jpg"
     },
@@ -557,7 +557,7 @@
       "store_name": "台東龍捲風",
       "store_phone": " 0930-196415",
       "store_address": "台東縣台東市漢陽南路139-1號",
-      "average_score": 2,
+      "average_score": 4.1,
       "average_hour": 1,
       "img_url": "/static/images/storeImage/tornado.jpg"
     },
@@ -566,7 +566,7 @@
       "store_name": "海街日記",
       "store_phone": "0980-817722",
       "store_address": "台東縣綠島鄉公館50號",
-      "average_score": 4,
+      "average_score": 4.4,
       "average_hour": 1,
       "img_url": "/static/images/storeImage/oceandiary.jpg"
     },
@@ -574,7 +574,7 @@
       "store_name": "人魚和貓",
       "store_phone": " 08-9732943",
       "store_address": "台東縣蘭嶼鄉東清村23-3號",
-      "average_score": "2",
+      "average_score": 3.8,
       "average_hour": "3",
       "img_url": "/static/images/storeImage/mermaid.jpg",
       "id": 5
@@ -583,7 +583,7 @@
       "store_name": "沙灘城堡",
       "store_phone": "06-9950855",
       "store_address": "澎湖縣馬公市山水里珠江3-10號",
-      "average_score": "3",
+      "average_score": 4.0,
       "average_hour": "3",
       "img_url": "/static/images/storeImage/beachcastle.jpg",
       "id": 6
@@ -592,7 +592,7 @@
       "store_name": "大魚的家",
       "store_phone": " 06-9951505",
       "store_address": "澎湖縣馬公市五德里雞母塢230號",
-      "average_score": "3",
+      "average_score": 4.0,
       "average_hour": "8",
       "img_url": "/static/images/storeImage/bigfish.jpg",
       "id": 7
@@ -601,7 +601,7 @@
       "store_name": "湖畔江南",
       "store_phone": "0939-725883",
       "store_address": "金門縣金寧鄉南山路5-6號",
-      "average_score": "2",
+      "average_score": 3.2,
       "average_hour": "6",
       "img_url": "/static/images/storeImage/lake.jpg",
       "id": 8
@@ -610,7 +610,7 @@
       "store_name": "澎湖夏灩民宿",
       "store_phone": "0931-151565",
       "store_address": "澎湖縣湖西鄉沙港村13號之一",
-      "average_score": "3",
+      "average_score": 4.3,
       "average_hour": "4",
       "img_url": "/static/images/storeImage/summer.jpg",
       "id": 9
@@ -619,7 +619,7 @@
       "store_name": "松之墅",
       "store_phone": "0920997168",
       "store_address": "269宜蘭縣冬山鄉安農五路19號",
-      "average_score": "5",
+      "average_score": 4.6,
       "average_hour": "4",
       "img_url": "/static/images/storeImage/song.jpg",
       "id": 10
@@ -628,7 +628,7 @@
       "store_name": "晴光部落民宿",
       "store_phone": "06-9950838",
       "store_address": "澎湖縣馬公市鎖港里25鄰鎖管港1886號",
-      "average_score": "5",
+      "average_score": 4.7,
       "average_hour": "2",
       "img_url": "/static/images/storeImage/sunshine.jpg",
       "id": 11
